@@ -1,8 +1,8 @@
 class Scribe < Formula
   desc "A lightweight static site generator built in pure Go with zero external dependencies"
   homepage "https://github.com/dikaio/scribe"
-  url "https://github.com/dikaio/scribe/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "2a61c7248203d38087688aae146483054fef8f33620c2131d9f0ee220686963c"
+  url "https://github.com/dikaio/scribe/archive/refs/tags/v0.4.7.tar.gz"
+  sha256 "17594acff97e6f24bb4d0e8b10806a652b230e76bab51dc5038512ccf95c1fb5"
   license "MIT"
   head "https://github.com/dikaio/scribe.git", branch: "main"
 
